@@ -17,15 +17,16 @@ With a deep passion for Artificial Intelligence and a background that bridges te
 
 I possess a diverse set of skills that allow me to excel in the field of Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I being to the table:
 - Machine Learning and Data Science 📈
-- Programming: Python, C/C++, MATLAB, SQL, Unix/Bash Scripting, HTML, CSS 💻
+- Mapping, Localization and Path Planning. 🤖
+- Reinforcement Learning 🧾
+- Programming: Python, C/C++, MATLAB, SQL, Unix/Bash Scripting 💻
 - Frameworks: PyTorch, ROS2, Flask
 - Simulation: Gazebo, Simulink 🚀
 - Libraries: Scikit-learn, Numpy, Pandas 📊
-- Mapping, Localization and Path Planning. 🤖
 - Exploratory Data Analysis and Data Visualization 📈
 - Data Pre-processing and Feature Engineering 🛠️📋
 - Problem Solving 🧩💡
-- Reinforcement Learning 🧾
+
 
 ![Screenshot](working-6614261_1280.png)
 
