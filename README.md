@@ -67,6 +67,9 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 - Built a spam detection model for email services using logistic regression.
 - Evaluated the model's performance with metrics including accuracy, precision, recall, and F1-score to ensure effective filtering of unwanted messages.
 
+### e. [Customer-Churn-Prediction](https://github.com/sghatak5/Customer-Churn-Prediction)
+- Predicted customer churn using decision tree and random forest algorithms, utilizing a dataset with features on customer demographics, account information, and usage patterns.
+
 ## 4. [FlashCard Trainer](https://github.com/sghatak5/FlashCard-Trainer)
 - Built a web application to create, manage, and study flashcards. 
 - Implemented a learning mode to help users engage with and study the flashcards they've created, enhancing the overall learning experience.
