@@ -52,7 +52,7 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 ## 3. Data Science/Machine Learning Projects
 
 ### a. [Titanic Dataset Preprocessing](https://github.com/sghatak5/Titanic-Dataset-PreProcessing)
-- Preprocessed the Titanic dataset by using someone of the state-of-art techniques like feature scaling, and encoding categorical variables.
+- Preprocessed the Titanic dataset by using some of the state-of-art techniques like feature scaling, and encoding categorical variables.
 - Enhanced the dataset's predictive power through feature engineering, ensuring it was ready for machine learning algorithms.
 
 ### b. [Iris EDA](https://github.com/sghatak5/iris-eda)
