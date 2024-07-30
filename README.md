@@ -75,9 +75,14 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 - Implemented a learning mode to help users engage with and study the flashcards they've created, enhancing the overall learning experience.
 
 
+## 5. [Tower of Hanoi](https://github.com/sghatak5/tower-of-hanoi)
+- Designed and implemented a custom environment for the Tower of Hanoi using the Gymnasium framework.
+- Developed a Q-learning agent to solve the Tower of Hanoi problem.
+- Trained the agent with various parameters and visualized the learning process and results.
+- Utilized reinforcement learning techniques to optimize the agent's performance in solving the puzzle efficiently.
 
 
-### Currently working on a custom Gym environment and build a reinforcement learning agent to adapt in the gym environment using both Q-learning and Deep Q-Network(DQN)
+### Currently working building a reinforcement learning agent to adapt in the tower of hanoi environment using Deep Q-Network(DQN)
 
 Feel free to explore the project repositories for more details and code samples!
 
