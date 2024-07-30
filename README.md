@@ -7,7 +7,7 @@
    - Access my latest resume here: [📋](Resume_Sagnik_.pdf)
    - You can also connect with on [LinkedIn](https://www.linkedin.com/in/sghatak5/)
 
-![](giphy.gif)
+<img src="giphy.gif" alt="Gif" style="width: 100%;" />
 
 # About Me
 
