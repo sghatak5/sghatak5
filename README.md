@@ -17,6 +17,7 @@ With a deep passion for Artificial Intelligence and a background that bridges te
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sghatak5" style="width: 47%; height: 200px;" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghatak5&layout=compact" style="width: 47%; height: 200px;" />
 </div>
+
 # Skills
 
 I possess a diverse set of skills that allow me to excel in the field of Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I being to the table:
