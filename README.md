@@ -14,11 +14,9 @@
 With a deep passion for Artificial Intelligence and a background that bridges technology and creativity, I am eager to embark on a career in AI. My journey has been fueled by a fascination with how machines can learn and adapt, leading me to dive into various AI technologies and projects. I am constantly seeking to push the boundaries of what's possible through innovative AI solutions. My ultimate goal is to contribute to advancements in AI that positively impact society and drive progress. 💡🤖🚀
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sghatak5" style="width: 47%;" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghatak5&layout=compact" style="width: 47%;" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sghatak5" style="width: 47%; height: 200px;" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghatak5&layout=compact" style="width: 47%; height: 200px;" />
 </div>
-
-
 # Skills
 
 I possess a diverse set of skills that allow me to excel in the field of Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I being to the table:
