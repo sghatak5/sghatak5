@@ -47,8 +47,8 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 ## 2. [Local Path Planner for Evasive Maneuvors of Automated Vehicle](https://github.com/sghatak5/Local-Path-Planner-for-Evasive-Maneuvors-of-Automated-Vehicle)
 - Developed a local path planner for executing robust evasive maneuvers around obstacles, utilizing a bicycle model and PID controller.
 - Achieved improved navigation accuracy and enhanced obstacle avoidance in dynamic environments.
-
-<img src="Pathplanning_demo2.gif" alt="Gif" style="width: 100%;" />
+- [Video 1](https://github.com/sghatak5/sghatak5/blob/main/Pathplanning_demo.gif)
+- [Video 2](https://github.com/sghatak5/sghatak5/blob/main/Pathplanning_demo2.gif)
 
 ## 3. Data Science/Machine Learning Projects
 
