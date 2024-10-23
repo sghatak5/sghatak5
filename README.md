@@ -20,7 +20,7 @@ With a deep passion for Artificial Intelligence and a background that bridges te
 
 # Skills
 
-I possess a diverse set of skills that allow me to excel in the field of Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I being to the table:
+I possess a diverse set of skills that allow me to excel in the field of Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I bring to the table:
 - Machine Learning and Data Science 📈
 - Mapping, Localization and Path Planning. 🤖
 - Reinforcement Learning 🧾
