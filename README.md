@@ -48,7 +48,7 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 - Developed a local path planner for executing robust evasive maneuvers around obstacles, utilizing a bicycle model and PID controller.
 - Achieved improved navigation accuracy and enhanced obstacle avoidance in dynamic environments.
 
-<img src="Pathplanning_demo.gif" alt="Gif" style="width: 100%;" />
+<img src="Pathplanning_demo2.gif" alt="Gif" style="width: 100%;" />
 
 ## 3. Data Science/Machine Learning Projects
 
