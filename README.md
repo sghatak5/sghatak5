@@ -4,7 +4,7 @@
 
 
    I am Sagnik, a master's student currently studying AI Engineering for Autonomous System in Technische Hochschule Ingolstadt, Germany. I am passionate about different AI methods and enjoy diving into real-life projects to enhance my practical skills and explore new concepts in AI. I am open to employment opportunities and project collaborations, so feel free to reach out to me at 📧 sagnikghatak22@gmail.com.
-   - Access my latest resume here: [📋](Resume_October.pdf)
+   - Access my latest resume here: [📋](Resume_November.pdf)
    - You can also connect with on [LinkedIn](https://www.linkedin.com/in/sghatak5/)
 
 <img src="giphy.gif" alt="Gif" style="width: 100%;" />
