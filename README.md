@@ -50,7 +50,23 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 - [Video 1](https://github.com/sghatak5/sghatak5/blob/main/Pathplanning_demo.gif)
 - [Video 2](https://github.com/sghatak5/sghatak5/blob/main/Pathplanning_demo2.gif)
 
-## 3. Data Science/Machine Learning Projects
+## 3. [FlashCard Trainer](https://github.com/sghatak5/FlashCard-Trainer)
+- Built a web application to create, manage, and study flashcards. 
+- Implemented a learning mode to help users engage with and study the flashcards they've created, enhancing the overall learning experience.
+
+
+## 4. [Tower of Hanoi](https://github.com/sghatak5/tower-of-hanoi)
+- Designed and implemented a custom environment for the Tower of Hanoi using the Gymnasium framework.
+- Developed a Q-learning agent to solve the Tower of Hanoi problem.
+- Trained the agent with various parameters and visualized the learning process and results.
+- Utilized reinforcement learning techniques to optimize the agent's performance in solving the puzzle efficiently.
+
+## 5. [IMU and GPS Sensor Fusion using Extended Kalman FIlter](https://github.com/sghatak5/px4vision_localization/)
+- Designed and Extended Kalman FIlter to fuse IMU and GPS Data.
+- Used the PX4 Autopilot Flight controller to simulate a drone in Gazebo
+- IMU and GPS data from simulated drone fused and published in a topic using ROS2 as a middleware. 
+
+## 6. Data Science/Machine Learning Projects
 
 ### a. [Titanic Dataset Preprocessing](https://github.com/sghatak5/Titanic-Dataset-PreProcessing)
 - Preprocessed the Titanic dataset by using some of the state-of-art techniques like feature scaling, and encoding categorical variables.
@@ -71,19 +87,6 @@ I thrive on tackling projects that push my limits and offer opportunities for gr
 ### e. [Customer-Churn-Prediction](https://github.com/sghatak5/Customer-Churn-Prediction)
 - Predicted customer churn using decision tree and random forest algorithms, utilizing a dataset with features on customer demographics, account information, and usage patterns.
 
-## 4. [FlashCard Trainer](https://github.com/sghatak5/FlashCard-Trainer)
-- Built a web application to create, manage, and study flashcards. 
-- Implemented a learning mode to help users engage with and study the flashcards they've created, enhancing the overall learning experience.
-
-
-## 5. [Tower of Hanoi](https://github.com/sghatak5/tower-of-hanoi)
-- Designed and implemented a custom environment for the Tower of Hanoi using the Gymnasium framework.
-- Developed a Q-learning agent to solve the Tower of Hanoi problem.
-- Trained the agent with various parameters and visualized the learning process and results.
-- Utilized reinforcement learning techniques to optimize the agent's performance in solving the puzzle efficiently.
-
-
-### Currently working building a reinforcement learning agent to adapt in the tower of hanoi environment using Deep Q-Network(DQN)
 
 Feel free to explore the project repositories for more details and code samples!
 
