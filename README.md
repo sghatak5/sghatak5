@@ -3,7 +3,7 @@
 # Hello!!👋 Welcome to my GitHub profile. 
 
 
-I am Sagnik, a master's student currently studying AI Engineering for Autonomous System in Technische Hochschule Ingolstadt, Germany. I am passionate about Robotics and AI and enjoy diving into real-life projects to enhance my practical skills and explore new concepts within AI. I am open to employment opportunities and project collaborations, so feel free to reach out to me at 📧 sagnikghatak22@gmail.com.
+I am Sagnik, a master's student currently studying AI Engineering for Autonomous System in Technische Hochschule Ingolstadt, Germany. I am passionate about Robotics and AI and enjoy diving into real-life projects to enhance my practical skills and explore new concepts within AI. I am open to employment opportunities and project collaborations, so feel free to reach out to me at 📧 ghatak.sagnik5@gmail.com.
    - Access my latest resume here: [📋](Resume_SagnikGhatak_Robotics_AI.pdf)
    - You can also connect with on [LinkedIn](https://www.linkedin.com/in/sghatak5/)
 
