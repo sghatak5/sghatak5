@@ -2,93 +2,84 @@
 
 # Hello!!👋 Welcome to my GitHub profile. 
 
+# Sagnik Ghatak
+ 
+**Research Associate · AImotion Bavaria, Technische Hochschule Ingolstadt**
+ 
+I investigate on the question of how a robot can understand a task and act on it reliably. My current focus is building the software architecture that makes that possible: grounding language model outputs in a formal world model, and verifying every planned action against it before the robot moves. 
+ 
+> *The robot only does what it can formally verify it can do.*
+ 
+---
 
-I am Sagnik, Scientific Researcher in the Digital Production Cluster of AImotion Bavaria at Technische Hochschule Ingolstadt, Germany. I am passionate about Robotics and AI and enjoy diving into real-life projects to enhance my practical skills and explore new concepts within AI. I am open to employment opportunities and project collaborations, so feel free to reach out to me at 📧 ghatak.sagnik5@gmail.com.
-   - Access my latest resume here: [📋](Sagnik_CV_PhD.pdf)
-   - You can also connect with on [LinkedIn](https://www.linkedin.com/in/sghatak5/)
+## What I'm Currently Building
+ 
+**Language-Grounded Robot Control Platform** · AImotion Bavaria · 2026
+ 
+An end-to-end control platform for a KUKA iiwa arm. A natural language instruction is parsed by an LLM, grounded in a two-layer knowledge base - OWL ontology for capabilities, Redis for live world state and compiled by a PDDL planner into an action sequence validated against the domain model before the robot moves.
 
-<img src="giphy.gif" alt="Gif" style="width: 100%;" />
-
-# About Me
-
-With a deep passion for Artificial Intelligence and a background that bridges technology and creativity, I am eager to embark on a career in AI. My journey has been fueled by a fascination with how machines can learn and adapt, leading me to dive into various AI technologies and projects. I am constantly seeking to push the boundaries of what's possible through innovative AI solutions. My ultimate goal is to contribute to advancements in AI that positively impact society and drive progress. 💡🤖🚀
-
-[![](https://raw.githubusercontent.com/sghatak5/sghatak5/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sghatak5/sghatak5/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sghatak5/sghatak5/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sghatak5/sghatak5/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sghatak5/sghatak5/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-# Skills
-
-I possess a diverse set of skills that allow me to excel in the field of Robotics, Software Engineering, Artificial Intelligence and Machine Learning. Here are some of the key skills I bring to the table:
-- Mapping, Localization and Path Planning. 🤖
-- Reinforcement Learning, Deep Learning, Federated Learning 🧾
-- Programming: Python, C/C++, MATLAB, SQL, Unix/Bash Scripting 💻
-- Frameworks: PyTorch, ROS2, 
-- Simulation: Gazebo, IsaacSim 🚀
-- Libraries: PyTorch, NAV2, MoveIT2, IsaacLab, Scikit-learn, Numpy, Pandas 📊
-- Problem Solving 🧩💡
-
-
-![Screenshot](working-6614261_1280.png)
-
-# Current Projects (to be made public once completed)
-- Master Thesis: Federated Mutli-Agent Deep Reinforcement Learning for Mobile Robot Navifation: A Simulation-Based Framework Using IsaacLab
+## Research Interests
+ 
+- Structured grounding of foundation models for robot task planning
+- Hybrid symbolic and learned planning for long-horizon manipulation  
+- Formal ontological representations for robot capability reasoning
+- Sample-efficient multi-robot learning and coordination
+---
 
 # GitHub Repositories
 
-I thrive on tackling projects that push my limits and offer opportunities for growth and learning. Here are some of the key projects I've worked on:
+## 1. **[Federated Multi-Agent Deep RL for Mobile Robot Navigation](https://github.com/sghatak5/Multi_Robot_FDRL_System)** · Master Thesis · 2025
+ 
+Built a federated deep reinforcement learning framework where a team of robots learns to coordinate without sharing raw data. The federated MAPPO policy matched a centralised baseline with 100% success and zero collisions. Integrated Isaac Sim, Isaac Lab, SKRL, and Flower from scratch into a single training pipeline.
+ 
+`Isaac Sim` `Isaac Lab` `SKRL` `Flower` `MAPPO` `TurtleBot3`
+ 
+---
 
-## 1. [Echo-bot](https://github.com/sghatak5/echo-bot)
-- Developed an autonomous bot with SLAM capabilities using ROS2 and simulate it in Gazebo
-- Tech Stack: Python, CMAKE, Gazebo, ROS2
-
-## 2. [Local Path Planner for Evasive Maneuvors of Automated Vehicle](https://github.com/sghatak5/Local-Path-Planner-for-Evasive-Maneuvors-of-Automated-Vehicle)
-- Developed a local path planner for executing robust evasive maneuvers around obstacles, utilizing a bicycle model and PID controller.
-- Achieved improved navigation accuracy and enhanced obstacle avoidance in dynamic environments.
+## 2. **[Local Path Planner for Evasive Manoeuvres](https://github.com/sghatak5/Local-Path-Planner-for-Evasive-Maneuvors-of-Automated-Vehicle)** · 2024
+ 
+Local path planner for robust obstacle avoidance using a bicycle kinematic model and PID controller, validated in simulation with dynamic scenarios.
 - [Video 1](Pathplanning_demo.gif)
 - [Video 2](Pathplanning_demo2.gif)
+ 
+`Python` `Bicycle Model` `PID Control`
+ 
+---
 
-## 3. [FlashCard Trainer](https://github.com/sghatak5/FlashCard-Trainer)
-- Built a web application to create, manage, and study flashcards. 
-- Implemented a learning mode to help users engage with and study the flashcards they've created, enhancing the overall learning experience.
+## 3. **[Echo-Bot — Autonomous SLAM Robot](https://github.com/sghatak5/echo-bot)** · 2024
+ 
+Autonomous robot with full SLAM in ROS2, simulated in Gazebo for mapping and navigation validation.
+ 
+`ROS2` `Nav2` `Gazebo` `Python`
+ 
+---
 
+## 4. **[Tower of Hanoi — Reinforcement Learning](https://github.com/sghatak5/tower-of-hanoi)** · 2023
+ 
+Custom Gymnasium environment for Tower of Hanoi with a Q-learning agent trained and visualised across varied hyperparameter configurations.
+ 
+`Python` `Gymnasium` `Q-Learning`
+ 
+---
 
-## 4. [Tower of Hanoi](https://github.com/sghatak5/tower-of-hanoi)
-- Designed and implemented a custom environment for the Tower of Hanoi using the Gymnasium framework.
-- Developed a Q-learning agent to solve the Tower of Hanoi problem.
-- Trained the agent with various parameters and visualized the learning process and results.
-- Utilized reinforcement learning techniques to optimize the agent's performance in solving the puzzle efficiently.
+## Languages & Tools
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sghatak5&layout=compact&theme=default&hide_border=true&langs_count=8)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sghatak5&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+ 
+---
 
-## 5. [IMU and GPS Sensor Fusion using Extended Kalman FIlter](https://github.com/sghatak5/px4vision_localization/)
-- Designed and Extended Kalman FIlter to fuse IMU and GPS Data.
-- Used the PX4 Autopilot Flight controller to simulate a drone in Gazebo
-- IMU and GPS data from simulated drone fused and published in a topic using ROS2 as a middleware. 
-
-## 6. Data Science/Machine Learning Projects
-
-### a. [Titanic Dataset Preprocessing](https://github.com/sghatak5/Titanic-Dataset-PreProcessing)
-- Preprocessed the Titanic dataset by using some of the state-of-art techniques like feature scaling, and encoding categorical variables.
-- Enhanced the dataset's predictive power through feature engineering, ensuring it was ready for machine learning algorithms.
-
-### b. [Iris EDA](https://github.com/sghatak5/iris-eda)
-- Conducted an in-depth Exploratory Data Analysis (EDA) of the Iris dataset using various data visualization techniques, summary statistics, and correlation analysis.
-- Uncovered valuable insights and findings from the data, enhancing understanding of the relationships between different features.
-
-### c. [Boston House Price Prediction](https://github.com/sghatak5/Boston-housing-price-prediction-linear-regression)
-- Developed models to predict house prices in Boston using both simple and multiple linear regression techniques.
-- Evaluated model performance using metrics such as RMSE and R², leveraging the Boston Housing dataset for accurate predictions.
-
-### d. [Email Spam Detection](https://github.com/sghatak5/Email-Spam-Detection)
-- Built a spam detection model for email services using logistic regression.
-- Evaluated the model's performance with metrics including accuracy, precision, recall, and F1-score to ensure effective filtering of unwanted messages.
-
-### e. [Customer-Churn-Prediction](https://github.com/sghatak5/Customer-Churn-Prediction)
-- Predicted customer churn using decision tree and random forest algorithms, utilizing a dataset with features on customer demographics, account information, and usage patterns.
-
+## Hardware I've Worked On
+ 
+`KUKA iiwa` `UR10e` `Braccio arm` `TurtleBot4` `Unitree Go2/D1` `Robotnik`
+ 
+---
 
 Feel free to explore the project repositories for more details and code samples!
 
 # Contact
-   - If you have any questions, collaboration ideas, or employment opportunities,  reach out to me via email: ghatak.sagnik5@gmail.com. 📧
+   - Actively applying for **PhD positions** in robot learning, semantic reasoning for manipulation, hybrid planning, and human-robot collaboration. If your group works on any of these, feel free to reach out.
+   - 📧 ghatak.sagnik5@gmail.com · [LinkedIn](https://www.linkedin.com/in/sghatak5/)
 
 Thank you for visiting my GitHub profile.  😊🎉
