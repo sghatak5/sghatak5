@@ -1,5 +1,5 @@
 ![Screenshot](brain.jpg)
-
+ 
 # Hello!!👋 Welcome to my GitHub profile. 
 
 # Sagnik Ghatak
