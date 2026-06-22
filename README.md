@@ -72,7 +72,7 @@ Custom Gymnasium environment for Tower of Hanoi with a Q-learning agent trained 
 
 ## Hardware I've Worked On
  
-`KUKA iiwa` `UR10e` `Braccio arm` `TurtleBot4` `Unitree Go2/D1` `Robotnik`
+`KUKA iiwa` `UR10e` `Braccio arm` `TurtleBot4`
  
 ---
 
