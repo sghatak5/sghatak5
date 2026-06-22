@@ -54,7 +54,7 @@ Autonomous robot with full SLAM in ROS2, simulated in Gazebo for mapping and nav
  
 ---
 
-## 4. **[Tower of Hanoi — Reinforcement Learning](https://github.com/sghatak5/tower-of-hanoi)** · 2023
+## 4. **[Tower of Hanoi — Reinforcement Learning](https://github.com/sghatak5/tower-of-hanoi)** · 2024
  
 Custom Gymnasium environment for Tower of Hanoi with a Q-learning agent trained and visualised across varied hyperparameter configurations.
  
