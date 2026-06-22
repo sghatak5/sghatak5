@@ -46,7 +46,7 @@ Local path planner for robust obstacle avoidance using a bicycle kinematic model
  
 ---
 
-## 3. **[Echo-Bot — Autonomous SLAM Robot](https://github.com/sghatak5/echo-bot)** · 2024
+## 3. **[Echo-Bot - Autonomous SLAM Robot](https://github.com/sghatak5/echo-bot)** · 2024
  
 Autonomous robot with full SLAM in ROS2, simulated in Gazebo for mapping and navigation validation.
  
@@ -54,7 +54,7 @@ Autonomous robot with full SLAM in ROS2, simulated in Gazebo for mapping and nav
  
 ---
 
-## 4. **[Tower of Hanoi — Reinforcement Learning](https://github.com/sghatak5/tower-of-hanoi)** · 2024
+## 4. **[Tower of Hanoi - Reinforcement Learning](https://github.com/sghatak5/tower-of-hanoi)** · 2024
  
 Custom Gymnasium environment for Tower of Hanoi with a Q-learning agent trained and visualised across varied hyperparameter configurations.
  
