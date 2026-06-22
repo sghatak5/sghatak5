@@ -64,7 +64,17 @@ Custom Gymnasium environment for Tower of Hanoi with a Q-learning agent trained 
 
 ## Languages & Tools
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sghatak5&layout=compact&theme=default&hide_border=true&langs_count=8)
+## Skills
+
+| Area | Tools |
+|---|---|
+| **Robotics & Autonomy** | ROS2, Nav2, MoveIt2, SLAM, Motion Planning, Manipulation |
+| **Knowledge Engineering** | OWL Ontology, Protégé, Apache Jena Fuseki, SPARQL, PDDL |
+| **AI & Learning** | Deep RL, Federated Learning, LLM-based Task Planning, PyTorch, SKRL, Flower |
+| **Simulation** | Isaac Sim, Isaac Lab, Gazebo |
+| **Systems & Middleware** | DDS (CycloneDDS/FastDDS), Redis, REST APIs, pub/sub, IPC, Linux |
+| **Programming** | Python, C++, Java, UNIX scripting |
+| **DevOps** | Docker, Git, CI/CD |
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sghatak5&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
  
